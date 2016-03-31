@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="Lab5RaviPatel/Lab5RaviPatel.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab5RaviPatel/Program.cs">
+    <Files>
+      <File FileName="Lab5RaviPatel/Program.cs" Line="93" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,5 @@
+/Users/ravipatel/Projects/LabFourRaviPatel/LabFourRaviPatel/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/ravipatel/Projects/LabFourRaviPatel/LabFourRaviPatel/bin/Debug/LabFourRaviPatel.exe.mdb
+/Users/ravipatel/Projects/LabFourRaviPatel/LabFourRaviPatel/bin/Debug/LabFourRaviPatel.exe
+/Users/ravipatel/Projects/LabFourRaviPatel/LabFourRaviPatel/obj/x86/Debug/LabFourRaviPatel.exe
+/Users/ravipatel/Projects/LabFourRaviPatel/LabFourRaviPatel/obj/x86/Debug/LabFourRaviPatel.exe.mdb
